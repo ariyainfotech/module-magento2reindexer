@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Copyright © Develop by Ariya InfoTech ( Yuvraj Raulji - www.yuvrajraulji.com ) All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
 namespace AriyaInfoTech\BackendReindexer\Controller\Adminhtml\BackendReindexer;
 
 /**

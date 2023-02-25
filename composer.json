@@ -3,6 +3,7 @@
     "description": "By Ariya InfoTech (www.ariyainfotech.com)",
     "type": "magento2-module",
     "license": "GPL-3.0",
+    "version":"1.0.0",
     "authors": [
         {
             "name": "Mage2Gen",
@@ -14,7 +15,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": "~5.5.0|~5.6.0|^7.0|^8.1",
+        "ariyainfotech/module-base": "1.*"
+    },
     "autoload": {
         "files": [
             "registration.php"
